@@ -25,7 +25,7 @@ Here is what you can do with AirStar:
   
 - **Choose Seat Type**: You have the free will of choosing your seat type such as seat number.
   
-- **Choose T![Nadir](https://github.com/user-attachments/assets/aff20261-63b4-4d90-9dde-86d848aea3eb)
+- **Choose 
 ime & Date**: Choose Time & Date.
 
 
